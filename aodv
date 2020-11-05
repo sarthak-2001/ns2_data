@@ -1,0 +1,141 @@
+----------------------------
+AODV
+----------------------------
+
+100 x 100
+
+Total sent packets  =961
+Total Received Packets =896
+Total Lost Packets =65
+Packet Loss ratio =6%
+Packet delivery ratio =93%
+Average Throughput =11.5689Kbps
+End to End Delay =+79642832151.0ns
+End to End Jitter delay =+46811202874.0ns
+Total Flod id 103
+
+----------------------------
+
+200 x 200
+
+Total sent packets  =1721
+Total Received Packets =977
+Total Lost Packets =744
+Packet Loss ratio =43%
+Packet delivery ratio =56%
+Average Throughput =6.02935Kbps
+End to End Delay =+233106720167.0ns
+End to End Jitter delay =+106814068899.0ns
+Total Flod id 455
+
+----------------------------
+
+300 x 300
+
+Total sent packets  =1852
+Total Received Packets =1358
+Total Lost Packets =494
+Packet Loss ratio =26%
+Packet delivery ratio =73%
+Average Throughput =6.75633Kbps
+End to End Delay =+267767321991.0ns
+End to End Jitter delay =+114193626433.0ns
+Total Flod id 469
+
+----------------------------
+
+400 x 400
+
+Total sent packets  =2474
+Total Received Packets =1822
+Total Lost Packets =652
+Packet Loss ratio =26%
+Packet delivery ratio =73%
+Average Throughput =12.3442Kbps
+End to End Delay =+281032459328.0ns
+End to End Jitter delay =+134491671424.0ns
+Total Flod id 565
+
+----------------------------
+
+500 x 500
+
+Total sent packets  =2229
+Total Received Packets =1653
+Total Lost Packets =576
+Packet Loss ratio =25%
+Packet delivery ratio =74%
+Average Throughput =17.9023Kbps
+End to End Delay =+181390334213.0ns
+End to End Jitter delay =+94889110869.0ns
+Total Flod id 450
+
+----------------------------
+
+600 x 600
+
+Total sent packets  =2094
+Total Received Packets =1867
+Total Lost Packets =227
+Packet Loss ratio =10%
+Packet delivery ratio =89%
+Average Throughput =19.6737Kbps
+End to End Delay =+131041021064.0ns
+End to End Jitter delay =+84835622803.0ns
+Total Flod id 390
+
+-------------------------
+
+700 x 700
+
+Total sent packets  =1870
+Total Received Packets =1395
+Total Lost Packets =475
+Packet Loss ratio =25%
+Packet delivery ratio =74%
+Average Throughput =17.1997Kbps
+End to End Delay =+106275573831.0ns
+End to End Jitter delay =+60658974743.0ns
+Total Flod id 311
+
+-------------------------
+
+800 x 800
+
+Total sent packets  =1543
+Total Received Packets =1000
+Total Lost Packets =543
+Packet Loss ratio =35%
+Packet delivery ratio =64%
+Average Throughput =27.1007Kbps
+End to End Delay =+73019229261.0ns
+End to End Jitter delay =+42394360318.0ns
+Total Flod id 251
+
+-------------------------
+
+900 x 900
+
+Total sent packets  =1458
+Total Received Packets =1048
+Total Lost Packets =410
+Packet Loss ratio =28%
+Packet delivery ratio =71%
+Average Throughput =35.0266Kbps
+End to End Delay =+67796074849.0ns
+End to End Jitter delay =+34711310835.0ns
+Total Flod id 202
+
+-------------------------
+
+1000 x 1000
+
+Total sent packets  =1274
+Total Received Packets =780
+Total Lost Packets =494
+Packet Loss ratio =38%
+Packet delivery ratio =61%
+Average Throughput =49.4847Kbps
+End to End Delay =+232962315792.0ns
+End to End Jitter delay =+43930710923.0ns
+Total Flod id 165
